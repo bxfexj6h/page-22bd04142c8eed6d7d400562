@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bcffec971dd0f00354d21ec0",
+  "owner": "bxfexj6h",
+  "repo": "page-22bd04142c8eed6d7d400562",
+  "title": "LoxCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "22bd04142c8eed6d7d400562",
+      "a": "LoxCloud",
+      "b": "机场官网线路发布页",
+      "entity": "LoxCloud",
+      "brand": "LoxCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f8e2e234ca58de0d7a4cdc49875a982330c37331817e3eba83a10f854ead5b8a",
+      "content": {
+        "primary_entity": "LoxCloud",
+        "keyword1": "LoxCloud",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "手机、电脑和路由器各有适配客户端，按设备选择后依照客户端文档导入订阅即可。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "按设备与流量需求选好套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更省心",
+          "AI_DESCRIPTION": "，专注海外网络加速，提供基础版、旗舰版与团队版三种订阅周期，覆盖个人流媒体、游戏加速与企业多设备场景。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按在线设备数量与月流量需求选择即可。",
+          "AI_FAQ_ANSWER_2": "订阅信息通过客户端导入，手机端可选择支持订阅链接的客户端，电脑端使用对应桌面客户端，路由器端则按插件或系统文档配置。具体以各客户端文档为准。",
+          "AI_FAQ_ANSWER_3": "旗舰版在基础节点池之外提供 IPLC 专线游戏加速优化，适合对延迟敏感的游戏与实时应用；基础版使用普通线路节点池，满足日常浏览与流媒体。",
+          "AI_FAQ_ANSWER_4": "不是，基础版为普通线路节点池，旗舰版提供 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与定制路由，不同套餐节点池范围不同。",
+          "AI_FAQ_ANSWER_5": "支持按月或按年计费。基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年，团队版按年付仅需 ¥850/年，长期使用可选择年付。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅信息如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "旗舰版的游戏加速适合什么场景？",
+          "AI_FAQ_QUESTION_4": "不同套餐的节点池是一样的吗？",
+          "AI_FAQ_QUESTION_5": "是否支持按月或按年付费？",
+          "AI_FAQ_TITLE": "常见问题解答",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度到订阅周期，三个步骤确定适合自己的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备，团队版每月 1000GB 支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "手机、电脑与路由器按各自客户端文档导入订阅，避免多个设备共用同一份订阅造成限制冲突。",
+          "AI_FEATURE_TEXT_3": "按月付费灵活试用，按年付基础版仅需 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备配客户端",
+          "AI_FEATURE_TITLE_3": "按周期付费",
+          "AI_GUIDE_INTRO": "从确认需求到完成配置，三个步骤即可开始使用 LoxCloud。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "LoxCloud 提供面向海外网络加速的订阅服务，涵盖基础版、旗舰版与团队版三种套餐，分别对应不同流量额度、设备数量与节点池。选择套餐后，按设备导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "海外加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按年付低至 ¥150/年",
+          "AI_HIGHLIGHT_3": "多设备支持最多 20 台",
+          "AI_PLANS_INTRO": "基础版适合单人轻量使用，旗舰版支持流媒体与游戏加速，团队版面向多设备与企业路由需求，按流量和在线设备数选择即可。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "先确定每月流量需求与同时在线设备数量，再对照基础版、旗舰版、团队版的额度与设备上限。",
+          "AI_STEP_TEXT_2": "查看客户端对手机、电脑或路由器的适配要求，确认当前设备能够按文档完成订阅导入。",
+          "AI_STEP_TEXT_3": "在所选客户端中依据其文档导入订阅信息，完成节点选择与连接配置。",
+          "AI_STEP_TITLE_1": "确定套餐需求",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依文档配置订阅",
+          "AI_VISUAL_TITLE": "LoxCloud 海外加速"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jqweatg.cn",
+    "host": "jqweatg.cn"
+  },
+  "file_hashes": {
+    "index.html": "5a71e9cbf8a3547ddc227c4df7884d53bd7b2bfc8df8de4fbedbfb1bd8abf5fe",
+    "sitemap.xml": "d7931c7d6e2b6f94994e88640765418c43b806489c554964a033c9fdfd6d0e68",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5784cbaf796ef9656b1563d006f9284cbc0081741f8519f516e983f1763fc780",
+    "robots.txt": "00d92fccc70caff1a58e4d70509d7140f71ccce8be89f061259f547cdc34f311",
+    "09cc9b7d6139c36b18da633fbc133b45.txt": "7284c84a059168f2e86c7e926258837fd664f7ee4d2b795bae53bff512a1b845"
+  },
+  "revision": "455b2c9b981140e53324cd1580ffb67b856e898a5e4d0b401990d87e26d23a4c"
+}
